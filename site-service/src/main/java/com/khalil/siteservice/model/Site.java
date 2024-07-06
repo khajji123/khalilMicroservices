@@ -11,12 +11,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 import javax.persistence.Transient;
 
-/**
- * Site Model
- * 
- * @author SayedBaladoh
- *
- */
+
 @Table(name = "sites")
 @Entity
 public class Site {

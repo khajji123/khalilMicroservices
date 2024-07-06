@@ -9,12 +9,7 @@ import org.springframework.stereotype.Service;
 
 import com.khalil.userservice.repository.UserRepository;
 
-/**
- * User Service
- * 
- * @author SayedBaladoh
- *
- */
+
 @Service
 public class UserService {
 

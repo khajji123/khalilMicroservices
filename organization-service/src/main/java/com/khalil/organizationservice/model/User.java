@@ -1,11 +1,6 @@
 package com.khalil.organizationservice.model;
 
-/**
- * User Entity
- * 
- * @author SayedBaladoh
- *
- */
+
 public class User {
 
 	private Long id;

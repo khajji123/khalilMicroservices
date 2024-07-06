@@ -3,12 +3,7 @@ package com.khalil.organizationservice.model;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Site Entity
- * 
- * @author SayedBaladoh
- *
- */
+
 public class Site {
 	
 

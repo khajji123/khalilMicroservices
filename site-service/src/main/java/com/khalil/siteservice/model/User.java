@@ -1,11 +1,6 @@
 package com.khalil.siteservice.model;
 
-/**
- * User Entity
- * 
- * @author SayedBaladoh
- *
- */
+
 public class User {
 
 	private Long id;

@@ -9,12 +9,7 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
-/**
- * User Model
- * 
- * @author SayedBaladoh
- *
- */
+
 @Table(name = "users")
 @Entity
 public class User implements Serializable {

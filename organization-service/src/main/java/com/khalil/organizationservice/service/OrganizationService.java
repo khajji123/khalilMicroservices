@@ -9,12 +9,7 @@ import org.springframework.stereotype.Service;
 import com.khalil.organizationservice.model.Organization;
 import com.khalil.organizationservice.repository.OrganizationRepository;
 
-/**
- * Organization Service
- * 
- * @author SayedBaladoh
- *
- */
+
 @Service
 public class OrganizationService {
 

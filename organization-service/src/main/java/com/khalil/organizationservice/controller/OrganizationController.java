@@ -17,12 +17,7 @@ import com.khalil.organizationservice.client.SiteClient;
 import com.khalil.organizationservice.client.UserClient;
 import com.khalil.organizationservice.model.Organization;
 
-/**
- * Organizations Controller
- * 
- * @author SayedBaladoh
- *
- */
+
 @RestController
 public class OrganizationController {
 

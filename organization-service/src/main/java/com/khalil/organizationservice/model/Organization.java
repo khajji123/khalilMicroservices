@@ -10,12 +10,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 import javax.persistence.Transient;
 
-/**
- * Organization Model
- * 
- * @author SayedBaladoh
- *
- */
+
 @Table(name = "organizations")
 @Entity
 public class Organization {
